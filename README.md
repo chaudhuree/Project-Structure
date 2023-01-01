@@ -1,4 +1,4 @@
-## Mern Folder Structure
+## MERN Folder Structure
 
 1.  backend front end separate file -- loosey couple
 2.  backend front end together
