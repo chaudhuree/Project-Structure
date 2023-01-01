@@ -117,7 +117,9 @@ cd client
 ```
 
 client(folder) ==> package.json--> add this line
+```
 "proxy": "http://localhost:5000"
+```
 
 now for server side==>
 in app.js before backend routing add this line,
